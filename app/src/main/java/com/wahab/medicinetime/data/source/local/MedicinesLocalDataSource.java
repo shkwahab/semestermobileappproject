@@ -10,10 +10,6 @@ import com.wahab.medicinetime.data.source.Pills;
 import java.net.URISyntaxException;
 import java.util.List;
 
-/**
- * Created by gautam on 13/07/17.
- */
-
 public class MedicinesLocalDataSource implements MedicineDataSource {
 
     private static MedicinesLocalDataSource mInstance;
